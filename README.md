@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**nfe213/nfe213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanical Engineer working in Bessemer, Alabama. 
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working as a Contract Engineering Co-Op for Fitz-Thors Engineering
+- Running [TOM:UA](https://nfe213.github.io/tom-ua/) 
+
+##### COMFORT ZONE
+
+- Web Design & HTML Based UIs
+- Python & Google Cloud APIs
+- Workflow Automation
+- SolidWorks, AutoCAD
+- FDM & CCF 3D Printing 
+- Mechanical Design
+
+##### PREVIOUS PROJECTS
+
+- [Atlanta Face Shields](http://atlantafaceshields.com/index-old#cta)
+- Telemetry Hub for the University of Alabama's SAE Baja Race Team
