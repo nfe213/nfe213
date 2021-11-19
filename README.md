@@ -9,11 +9,8 @@ I'm a Mechanical Engineer working in Bessemer, Alabama.
 
 ##### COMFORT ZONE
 
-- Web Design & HTML Based UIs
-- Python & Google Cloud APIs
-- Workflow Automation
+- Workflow Automation & Divergent UIs
 - SolidWorks, AutoCAD
-- FDM & CCF 3D Printing 
 - Mechanical Design
 
 ##### PREVIOUS PROJECTS
