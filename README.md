@@ -4,8 +4,8 @@ I'm a Mechanical Engineer working in Bessemer, Alabama.
 
 ##### NOW
 
-- Working as a Contract Engineering Co-Op for Fitz-Thors Engineering
-- Running [TOM:UA](https://nfe213.github.io/tom-ua/) 
+- Working as a Industrial Services & Automation Co-Op at Fitz-Thors Engineering
+- Running [TOM:UA](https://nfe213.github.io/tom-ua/)
 
 ##### COMFORT ZONE
 
